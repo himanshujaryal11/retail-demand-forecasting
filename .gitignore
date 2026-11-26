@@ -3,9 +3,5 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .env
-data/raw/*
-data/processed/*
-!data/raw/.gitkeep
+data/raw/*.csv
 artifacts/*
-!artifacts/.gitkeep
-.streamlit/secrets.toml
